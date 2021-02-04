@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2564d330-e066-452c-b458-5857d83fe2a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/HelloWorld/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/HelloWorld/HelloWorldController.java" afterDir="false" />
-    </list>
+    <list default="true" id="2564d330-e066-452c-b458-5857d83fe2a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,10 +102,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed hello world to hello ahmed alaoui" />
     <MESSAGE value="changed hello world to hell ahmed alaoui" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed hello world to hell ahmed alaoui" />
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
   </component>
 </project>
